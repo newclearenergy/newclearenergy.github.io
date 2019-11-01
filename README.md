@@ -1,2 +1,6 @@
-# newclearenergy.github.io
-Website for the org/movement.
+---
+layout: redirect
+sitemap: false
+permalink: /
+redirect_to: https://newcleartwh.github.io/
+---
